@@ -1,12 +1,12 @@
-# University Project & Author Contribution
+# Charity Distribution IT System
+
+## University Project & Author Contribution
 
 This is a fork of the main repository for a university group project by the author.
 
 It is a prototype web-based inventory management system for a fictional charity organisation. It allows the end-user to interact with a postgres database through a hosted front-end. It is built with python front-end and back-end, FastAPI with templating and bootstrap, JSON web tokens for security and postgres backend. Prototype was deployed on Amazon EC2 for demostration purposes.
 
 Amongst other items, the author implemented the web-security component, including user authentication and password-walling the front-end with JSON web-tokens, associated back-end logic and database design.
-
-# Charity Distribution IT System
 
 ## Features
 - Recipient & Donor Management
